@@ -1,0 +1,52 @@
+.home:hover{background-color: black;}
+.html:hover{background-color: black;}
+/* .css:hover{background-color: black;} */
+.js:hover{background-color: black;}
+.sql:hover{background-color: black;}
+.py:hover{background-color: black;}
+.php:hover{background-color: black;}
+.bst:hover{background-color: black;}
+.ht:hover{background-color: black;}
+.w3c:hover{background-color: black;}
+.java:hover{background-color: black;}
+.jq:hover{background-color: black;}
+.c:hover{background-color: black;}
+
+.B1, .B2{
+    background-color: rgb(4 170 109);
+    border: 1px solid rgb(4 170 109);
+    border-radius: 5px;
+    height: 45px;
+    font-size: 17px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+.B1:hover, .B2:hover, .B3:hover{
+    background-color: rgba(10, 187, 120, 0.8);
+    cursor: pointer;
+}
+
+.B3{
+    background-color: rgb(4 170 109);
+    border: 1px solid rgb(4 170 109);
+    border-radius: 5px;
+    height: 43px;
+    font-size: 18px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.B3 p{
+    word-spacing: 1px;
+}
+.B3 span{
+    letter-spacing: -4px;
+}
+hr { 
+    border: 1px solid rgb(56, 68, 77);
+    margin-top: -11px;
+    margin-bottom: -22px;
+    width: 1070px;
+  } 

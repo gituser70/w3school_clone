@@ -1,0 +1,216 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+.home{
+    margin: 12px 15px 9px 16px;
+    padding: 0px 0px 0px 0px;
+}
+.html{
+    font-weight:bold;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0px 0px 0px 0px;
+    padding: 12px 18px 13px;
+    position: absolute;
+    top: 0px;
+}
+.css{
+    background-color: #04aa6d;
+    font-weight:bold;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0px 0px 0px 82px;
+    padding: 12px 15px 13px;
+    position: absolute;
+    top: 0px;
+}
+.js{
+    font-weight:bold;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0px 0px 0px 145px;
+    padding: 12px 15px 13px;
+    position: absolute;
+    top: 0px;
+}
+.sql{
+    font-weight:bold;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0px 0px 0px 272px;
+    padding: 12px 15px 13px;
+    position: absolute;
+    top: 0px;
+}
+.py{
+    font-weight:bold;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0px 0px 0px 334px;
+    padding: 12px 15px 13px;
+    position: absolute;
+    top: 0px;
+}
+.php{
+    font-weight:bold;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0px 0px 0px 432px;
+    padding: 12px 15px 13px;
+    position: absolute;
+    top: 0px;
+}
+.bst{
+    font-weight:bold;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0px 0px 0px 496px;
+    padding: 12px 15px 13px;
+    position: absolute;
+    top: 0px;
+}
+.ht{
+    font-weight:bold;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0px 0px 0px 623px;
+    padding: 12px 15px 13px;
+    position: absolute;
+    top: 0px;
+}
+.w3c{
+    font-weight:bold;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0px 0px 0px 719px;
+    padding: 12px 15px 13px;
+    position: absolute;
+    top: 0px;
+}
+.java{
+    font-weight:bold;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0px 0px 0px 812px;
+    padding: 12px 15px 13px;
+    position: absolute;
+    top: 0px;
+}
+.jq{
+    font-weight:bold;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0px 0px 0px 882px;
+    padding: 12px 15px 13px;
+    position: absolute;
+    top: 0px;
+}
+.c{
+    font-weight:bold;
+    text-decoration: none;
+    font-size: 15px;
+    margin: 0px 0px 0px 975px;
+    padding: 12px 15px 13px;
+    position: absolute;
+    top: 0px;
+}
+
+.dit{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: rgb(13,23,33);
+    border: solid rgb(13,23,33);
+    border-style: none;
+    size: 1360px 45px;
+    box-shadow: 0.05px 0.05px 3px;
+    font-family: "Segoe UI",Arial,sans-serif;
+    letter-spacing: 1px;
+    width: 100%;
+    height: 44px;
+}
+
+.dis{
+    border: 5px solid rgb(21,32,43);
+    border-left-style: none;
+    background-color: rgb(21,32,43);
+    width: 220px;
+    height: 100%;
+    padding: 14px 0px 80px 0px;
+    /* overflow-x: hidden; */
+    overflow-y: scroll;
+    position: fixed;
+}
+.dis li{
+    padding-left: 16px;
+}
+.dis li:hover{
+    background-color:rgba(255, 255, 255, 0.18);
+    cursor: pointer;
+}
+.dim1{
+    border: 5px solid rgb(29,42,53);
+    padding: 15px;
+    background-color: rgb(29,42,53);
+    height: 235px;
+    font-size: 42px;
+    margin-left: 220px;
+    color:rgb(221,221,221);
+}
+.B1{
+    width: 98.94px;
+    position: absolute;
+    left: 252px;
+    padding: 10px 5px;
+    margin-top: 89px;
+}
+.B2{
+    width: 88.23px;
+    position: absolute;
+    right: 220px;
+    padding: 10px 5px;
+    margin-top: 89px;
+}
+.B3{
+    width: 237.16px;
+    position: absolute;
+    left: 252px;
+    padding: 1px 5px;
+    margin-top: 10px;
+}
+.dim2{
+    border: 5px solid rgb(21,32,43);
+    padding: 30px 30px;
+    background-color: rgb(21,32,43);
+    height: 256px;
+    margin-left: 220px;
+}
+.dim2 p{
+    display: block;
+    color: rgb(221,221,221);
+    line-height: 2.5rem;
+    font-size: 16px;
+    word-spacing: 2px;
+}
+.dim3{
+    border: 5px solid rgb(29,42,53);
+    padding: 30px 27px;
+    background-color: rgb(29,42,53);
+    height: 760px;
+    margin-left: 220px;
+    font-size: 32px;
+    color:rgb(221,221,221);
+}
+.dim3 p{
+    font-size: 16px;
+    margin: 1.2em 0;
+    word-spacing: 2px;
+    /* line-height: 2rem;
+    margin-top: 12px; */
+}
+.dim3t{
+    margin: 23px 0 30px 0;
+}
